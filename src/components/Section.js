@@ -2,9 +2,12 @@
 
 import Image from "next/image";
 
-const Section = ({ title }) => {
+const Section = ({ title, id }) => {
   return (
-    <div className="w-full border-4 relative bg-nosk-green p-3 sm:py-4 xl:py-5 text-center flex justify-between items-center">
+    <div
+      className="w-full relative bg-nosk-green hover:border-4 transition-all duration-100 ease-in hover:border-nosk-yellow p-4 sm:py-4 xl:py-5 my-4 text-center flex justify-between items-center"
+      id={id}
+    >
       <div className="absolute -left-56 xs:-left-36 sm:-left-32 md:-left-28 lg:-left-12 xl:-left-0">
         <Image
           src="assets/svg/Wire_Long.svg"
