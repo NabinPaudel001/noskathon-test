@@ -59,7 +59,7 @@ const Participants = () => {
 
         <div className="text-center">
           <div className="text-5xl sm:text-6xl md:text-7xl font-extrabold mb-2">
-            {count >= 100 ? "100+" : count}
+            {count >= 100 ? "200+" : count}
           </div>
           <div className="text-xs sm:text-sm md:text-base text-nosk-grey">
             Total Participants
