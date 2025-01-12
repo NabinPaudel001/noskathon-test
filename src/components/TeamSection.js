@@ -27,7 +27,7 @@ export default function TeamSection() {
       role: "Event Lead",
       image: "/assets/team/nabin.jpg",
       socials: {
-        facebook: "#",
+        facebook: "https://www.facebook.com/nabin.paudel.41",
         instagram: "https://www.instagram.com/nabin_paudel24/",
         linkedin: "https://np.linkedin.com/in/nabin-paudel-133902293",
         twitter: "#",
@@ -41,7 +41,7 @@ export default function TeamSection() {
       role: "Program Manager",
       image: "/assets/team/rishav.jpg",
       socials: {
-        facebook: "#",
+        facebook: "https://www.facebook.com/rishavosaurus/",
         instagram: "https://www.instagram.com/rishavosaurus/",
         linkedin: "https://www.linkedin.com/in/rishav-chapagain/",
         twitter: "#",
@@ -66,7 +66,7 @@ export default function TeamSection() {
       role: "Design Lead",
       image: "/assets/team/sujal.jpg",
       socials: {
-        facebook: "#",
+        facebook: "https://www.facebook.com/sujalbikramthapa",
         instagram: "https://www.instagram.com/sujalbthapa/",
         linkedin: "https://www.linkedin.com/in/sujalbthapa/",
         twitter: "#",
@@ -101,7 +101,7 @@ export default function TeamSection() {
       role: "Logistics Lead",
       image: "/assets/team/aditya.jpg",
       socials: {
-        facebook: "#",
+        facebook: "https://www.facebook.com/aadityabinodyadav108/",
         instagram:
           "https://www.instagram.com/aadityarayyadav?igsh=d2w0aHhwejF5MHJ0",
         linkedin: "https://www.linkedin.com/in/aaditya-binod-yadav-52505a256/",
@@ -127,7 +127,7 @@ export default function TeamSection() {
       role: "Tech Team",
       image: "/assets/team/sunil.jpg",
       socials: {
-        facebook: "#",
+        facebook: "https://www.facebook.com/sunil.nath.3",
         instagram: "https://www.instagram.com/sunilnathyogi_/",
         linkedin: "http://linkedin.com/in/sunil-nath-162019263",
         twitter: "#",
@@ -138,7 +138,7 @@ export default function TeamSection() {
       role: "Tech Team",
       image: "/assets/team/sanjib.jpg",
       socials: {
-        facebook: "#",
+        facebook: "https://www.facebook.com/sandeshjung.shah.5",
         instagram: "https://www.instagram.com/sanjib_jung_shah_thakuri/",
         linkedin: "https://www.linkedin.com/in/sanjib-shah-3361041aa",
         twitter: "#",
